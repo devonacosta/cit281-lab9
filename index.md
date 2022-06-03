@@ -15,4 +15,4 @@
 6. [index.html](index.html)
 7. [README.md](README.md)
 8. sprites.png
-![sprites.png](sprites.png)
+- ![sprites.png](sprites.png)
