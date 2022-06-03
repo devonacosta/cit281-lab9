@@ -13,6 +13,5 @@
 4. [game.js](game.js)
 5. [game.manifest](game.manifest)
 6. [index.html](index.html)
-7. [README.md](README.md)
-8. sprites.png
+7. sprites.png
 - ![sprites.png](sprites.png)
